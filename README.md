@@ -10,12 +10,14 @@ I believe **engineering must be transparent**, so every project -from early expe
 
 ---
 
-## 🚗 **Current Project Index**
+## **Current Project Index**
 
 - `01-bt_car_esp32`  
   4WD Bluetooth car powered by an ESP32 (Classic Bluetooth SPP) and dual L298N motor drivers.  
   Uses a 6× AA NiMH pack for motors and a USB powerbank for the ESP32 logic domain with a custom birch plywood chassis.
 
+- `02-smart_home_esp32`  
+  Smart Home Monitor v2 (UI + event alarms) with ESP32 and ThingSpeak telemetry upload over WiFi (HTTP GET).
 ---
 
 ## 🧪 **Project Purposes**
